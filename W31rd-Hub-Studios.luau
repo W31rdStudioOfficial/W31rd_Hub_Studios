@@ -33,7 +33,7 @@ if execute_on_teleport and not getgenv().loading then
     local autoLoadScript = queueonteleport or queue_on_teleport
     if autoLoadScript then
         autoLoadScript([[
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/W31rdStudioOfficial/Scripts-Loader/refs/heads/main/Open-Source"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/W31rdStudioOfficial/W31rd_Hub_Studios/refs/heads/main/W31rd-Hub-Studios.luau"))()
         ]])
     end
 end
