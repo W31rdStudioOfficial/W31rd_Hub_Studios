@@ -1,0 +1,12 @@
+return {
+    [140317247681516] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Jump_Clicker",
+    [3623096087] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Muscle_Legends",
+    [3101667897] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Legends_Of_Speed",
+    [205224386] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Hide_And_Seek_Extreme",
+    [1240123653] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Zombie_Attack", -- Easy Mode
+    [1632210982] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Zombie_Attack", -- Hard Mode
+    [3851622790] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Break_In_Story_Chapter_1", -- Lobby
+    [4620170611] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Break_In_Story_Chapter_1", -- Game
+    [13864661000] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Break_In_Story_Chapter_2", -- Lobby
+    [13864667823] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Break_In_Story_Chapter_2", -- Game
+}
