@@ -1,4 +1,4 @@
-local supported_games = "https://raw.githubusercontent.com/W31rdStudioOfficial/Supported-Games/refs/heads/main/Places-List"
+local supported_games = "https://raw.githubusercontent.com/W31rdStudioOfficial/W31rd_Hub_Studios/refs/heads/main/Supported-Games"
 
 getgenv().loading = getgenv().loading or false
 
