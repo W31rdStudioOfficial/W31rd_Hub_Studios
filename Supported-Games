@@ -16,4 +16,6 @@ return {
     [5941839954] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Field_Trip_Z", -- Hardcore Mode
     [3835537082] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Daycare_Story_Chapter_1", -- Lobby
     [3954344772] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Daycare_Story_Chapter_1", -- Game
+    [4796443083] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Daycare_Story_Chapter_2", -- Lobby
+    [5087158461] = "https://raw.githubusercontent.com/zerquesth/W31rd_Hub/refs/heads/main/Daycare_Story_Chapter_2", -- Game
 }
